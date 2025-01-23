@@ -1,8 +1,21 @@
 # Changelog
 
-## 15.9.3 (2024-12-24)
+## 15.10.3 (2024-12-24)
 
 * [bitnami/thanos] Add SHARD to Environment Variables  ([#31150](https://github.com/bitnami/charts/pull/31150))
+
+## <small>15.10.2 (2025-01-21)</small>
+
+* [bitnami/thanos] Fix Helm Template Error For Storegateway and HPA ([#31486](https://github.com/bitnami/charts/pull/31486))
+
+## <small>15.10.1 (2025-01-17)</small>
+
+* [bitnami/thanos] Release 15.10.1 (#31444) ([7767445](https://github.com/bitnami/charts/commit/7767445e87f3846c4f57b62ba25382ba5732cde0)), closes [#31444](https://github.com/bitnami/charts/issues/31444)
+
+## 15.10.0 (2025-01-16)
+
+* [bitnami/*] Fix typo in README (#31052) ([b41a51d](https://github.com/bitnami/charts/commit/b41a51d1bd04841fc108b78d3b8357a5292771c8)), closes [#31052](https://github.com/bitnami/charts/issues/31052)
+* [bitnami/thanos] feature: allow configuring the Thanos ruler rule-file via ruler.ruleFile parameter  ([72d5d3f](https://github.com/bitnami/charts/commit/72d5d3f854cde59f5ac4ef5e647eefec855fe91b)), closes [#31377](https://github.com/bitnami/charts/issues/31377)
 
 ## <small>15.9.2 (2024-12-12)</small>
 
