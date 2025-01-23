@@ -1,12 +1,12 @@
 # Changelog
 
-## 15.10.3 (2024-12-24)
+## 15.10.3 (2025-01-23)
 
 * [bitnami/thanos] Add SHARD to Environment Variables  ([#31150](https://github.com/bitnami/charts/pull/31150))
 
 ## <small>15.10.2 (2025-01-21)</small>
 
-* [bitnami/thanos] Fix Helm Template Error For Storegateway and HPA ([#31486](https://github.com/bitnami/charts/pull/31486))
+* [bitnami/thanos] Fix Helm Template Error For Storegateway and HPA (#31486) ([9e323ab](https://github.com/bitnami/charts/commit/9e323abcc11a74c3fc5287541a7621cca0a3254f)), closes [#31486](https://github.com/bitnami/charts/issues/31486)
 
 ## <small>15.10.1 (2025-01-17)</small>
 
