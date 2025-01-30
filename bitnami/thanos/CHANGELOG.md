@@ -1,12 +1,12 @@
 # Changelog
 
-## 15.10.4 (2025-01-28)
+## 15.10.4 (2025-01-30)
 
 * [bitnami/thanos] Add SHARD to Environment Variables  ([#31150](https://github.com/bitnami/charts/pull/31150))
 
-## 15.10.3 (2025-01-23)
+## <small>15.10.3 (2025-01-24)</small>
 
-* [bitnami/thanos] Release 15.10.3 ([#31584](https://github.com/bitnami/charts/pull/31584))
+* [bitnami/thanos] Release 15.10.3 (#31584) ([67e1d09](https://github.com/bitnami/charts/commit/67e1d092248249b1f2171d452ec54a27e0ca79de)), closes [#31584](https://github.com/bitnami/charts/issues/31584)
 
 ## <small>15.10.2 (2025-01-21)</small>
 
