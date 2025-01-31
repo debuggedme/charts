@@ -1,8 +1,12 @@
 # Changelog
 
-## 15.10.4 (2025-01-30)
+## 15.11.1 (2025-01-30)
 
 * [bitnami/thanos] Add SHARD to Environment Variables  ([#31150](https://github.com/bitnami/charts/pull/31150))
+
+## 15.11.0 (2025-01-29)
+
+* [bitnami/thanos] feature(minio): Bump MinIO subchart ([#31663](https://github.com/bitnami/charts/pull/31663))
 
 ## <small>15.10.3 (2025-01-24)</small>
 
